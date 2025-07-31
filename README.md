@@ -1,2 +1,1 @@
-# day2
-day2
+HTML Home page creation with neccessary features. Frontend works.
